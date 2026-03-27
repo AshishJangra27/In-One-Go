@@ -1,3 +1,8 @@
+# API Python Demo Scripts
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sFCIX8zAXa1vLzCx-hsHu-w3aCr7c4mL?usp=sharing)
+
+**Colab Notebook:** [https://colab.research.google.com/drive/1sFCIX8zAXa1vLzCx-hsHu-w3aCr7c4mL?usp=sharing](https://colab.research.google.com/drive/1sFCIX8zAXa1vLzCx-hsHu-w3aCr7c4mL?usp=sharing)
 
 # API Python Demo Scripts
 
