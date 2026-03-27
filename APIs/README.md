@@ -1,11 +1,9 @@
 # API Python Demo Scripts
 
+This project demonstrates how to interact with various public APIs using Python and the requests library, progressing from basic to advanced concepts.
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sFCIX8zAXa1vLzCx-hsHu-w3aCr7c4mL?usp=sharing)
 
-
-# API Python Demo Scripts
-
-This project demonstrates how to interact with various public APIs using Python and the requests library, progressing from basic to advanced concepts.
 
 ## Setup
 
