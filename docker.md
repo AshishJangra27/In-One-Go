@@ -1,19 +1,6 @@
 # 🐳 Docker Complete Command Cheat Sheet (Interview + Real-World)
 
-This guide covers almost every commonly used Docker command including:
-
-- Docker Core Commands
-- Docker Images
-- Docker Containers
-- Docker Volumes
-- Docker Networks
-- Docker Compose
-- Docker System & Cleanup
-- Docker Logs & Debugging
-- Docker Registry (Docker Hub)
-- Docker Inspect & Monitoring
-
----
+This guide covers almost every commonly used Docker command, including:
 
 # Quick Summary
 
