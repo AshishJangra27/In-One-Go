@@ -1042,3 +1042,9 @@ docker system prune -a --volumes
 ---
 
 🎯 **Interview Tip:** Master the commands in the **Top 30 Interview Commands** section first. They cover the vast majority of Docker tasks you'll encounter in interviews and day-to-day development.
+
+
+---
+
+Follow **Ashish Jangra** for more
+
