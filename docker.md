@@ -15,6 +15,20 @@ This guide covers almost every commonly used Docker command including:
 
 ---
 
+# Quick Summary
+
+| Category | Most Important Commands |
+|----------|--------------------------|
+| Images | `build`, `images`, `pull`, `push`, `tag`, `rmi`, `inspect`, `history` |
+| Containers | `run`, `ps`, `stop`, `start`, `restart`, `exec`, `logs`, `rm` |
+| Volumes | `volume ls`, `volume create`, `volume inspect`, `volume rm` |
+| Networks | `network ls`, `network create`, `network connect`, `network inspect`, `network rm` |
+| Compose | `up`, `down`, `build`, `logs`, `ps`, `exec`, `run`, `restart`, `pull`, `config` |
+| Cleanup | `container prune`, `image prune`, `volume prune`, `network prune`, `system prune` |
+| Debugging | `inspect`, `logs`, `stats`, `top`, `events`, `diff`, `port`, `system df` |
+
+---
+
 # 1. Check Docker Version
 
 ```bash
